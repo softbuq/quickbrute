@@ -1,0 +1,15 @@
+{
+  "title": "QuickBrute",
+  "name": "QuickBrute",
+  "version": "0.0.2",
+  "description": "Scan weak passwords in Wordpress",
+  "main": "index.js",
+  "author": "SoftBuq",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
